@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Baylon-Contactform/static/css/main.ac2d9470.css",
+    "main.js": "/Baylon-Contactform/static/js/main.809f991b.js",
+    "static/js/787.8b9f18db.chunk.js": "/Baylon-Contactform/static/js/787.8b9f18db.chunk.js",
+    "static/media/animation.gif": "/Baylon-Contactform/static/media/animation.c9a94572343887ca4cf4.gif",
+    "index.html": "/Baylon-Contactform/index.html",
+    "main.ac2d9470.css.map": "/Baylon-Contactform/static/css/main.ac2d9470.css.map",
+    "main.809f991b.js.map": "/Baylon-Contactform/static/js/main.809f991b.js.map",
+    "787.8b9f18db.chunk.js.map": "/Baylon-Contactform/static/js/787.8b9f18db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac2d9470.css",
+    "static/js/main.809f991b.js"
+  ]
+}
